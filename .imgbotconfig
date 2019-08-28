@@ -1,0 +1,7 @@
+{
+    "schedule": "daily", // daily|weekly|monthly
+    "ignoredFiles": [
+        "tmp/*", // ignore by folderpath
+    ],
+    "aggressiveCompression": "true" // true|false
+}
